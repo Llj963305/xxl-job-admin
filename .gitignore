@@ -1,0 +1,24 @@
+*.class
+*velocity.log*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.ipr
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+
+# eclipse
+.settings/
+.classpath
+.project
+logs/
+
+# idea
+.idea/
+*.iml
+
